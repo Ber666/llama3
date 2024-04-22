@@ -5,7 +5,7 @@ from typing import List, Optional
 
 import fire
 
-from llama import Dialog, Llama
+from llama3 import Dialog, Llama
 
 
 def main(
